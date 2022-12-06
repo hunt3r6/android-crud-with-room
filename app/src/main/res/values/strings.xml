@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Belajar CRUD</string>
+    <string name="add_note">Add Note</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="change">Change Note</string>
+    <string name="note_empty">Not Empty</string>
+    <string name="update_success">Update Success</string>
+    <string name="save_success">Save Success</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete_success">Delelte Note Success</string>
+
+</resources>
